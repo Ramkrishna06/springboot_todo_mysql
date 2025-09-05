@@ -19,6 +19,16 @@ A beautiful, responsive **Todo Application** built using **Spring Boot**, **Thym
 
 ---
 
+
+## 🌐 Live Demo
+
+You can try the live version here:  
+🔗 [Live App Link](https://your-deployment-link.com)
+
+> Replace with your actual deployed URL (e.g., Render, Vercel, Railway, etc.)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology      | Description                  |
@@ -30,5 +40,18 @@ A beautiful, responsive **Todo Application** built using **Spring Boot**, **Thym
 
 ---
 
-## 🗂️ Project Structure
+## 🖼️ Screenshots
+
+### Dark mode/Light mode – Todo List
+<img width="1919" height="868" alt="Screenshot 2025-09-05 233421" src="https://github.com/user-attachments/assets/8b6a6194-eed6-470a-9dd4-a6d80f794745" />
+
+<img width="1918" height="857" alt="Screenshot 2025-09-05 233438" src="https://github.com/user-attachments/assets/9598105c-062f-422c-b9bc-c35195497930" />
+
+> 📌 To use screenshots:
+> - Create a folder named `screenshots/` in your project root
+> - Save images as `todo-list.png`, `add-todo.png`, etc.
+> - Commit them to GitHub
+
+
+
 
